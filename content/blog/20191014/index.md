@@ -1,6 +1,6 @@
 ---
 title: Git Flow for Beginners
-date: "2019-10-14T09:30:32.169Z"
+date: "2019-10-21T13:30:32.169Z"
 description: Demystifying Git Flow
 ---
 
