@@ -1,6 +1,6 @@
 ---
 title: React.lazy and Suspense
-date: "2019-10-23T13:30:32.169Z"
+date: "2019-10-24T18:30:48.169Z"
 description: React.lazy and Suspense
 ---
 
