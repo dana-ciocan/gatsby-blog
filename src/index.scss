@@ -1,0 +1,22 @@
+body {
+     background-color: darkslategray;
+     color: gainsboro;
+
+     h1 {
+        font-size: scale(1.5);
+        margin-bottom: rhythm(1.5);
+        margin-top: 0;
+        a {
+            color: white;
+        }
+     }
+
+     small {
+         color: lightseagreen;
+     }
+
+     a {  
+         color: turquoise;
+         text-decoration: none;
+     }
+}
