@@ -1,0 +1,22 @@
+body {
+     background-color: #260033;
+     color: gainsboro;
+
+     h1 {
+        font-size: scale(1.5);
+        margin-bottom: rhythm(1.5);
+        margin-top: 0;
+        a {
+            color: white;
+        }
+     }
+
+     small {
+         color: #ff3399;
+     }
+
+     a {  
+         color: #00b3b3;
+         text-decoration: none;
+     }
+}
