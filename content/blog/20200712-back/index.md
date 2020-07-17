@@ -15,7 +15,7 @@ I picked up Gatsby and Netlify again in the last few days and I made some update
 * I added Google Analytics to the site - this is so I can see whether my posts are picking up any traction and which posts people like best
 
 ## What are your plans?
-I am planning on adding a load more content, but I also want to do more things under the hood. I'd like to add the ability for people to contact me, should they wish, because at the moment I am sort of just shouting into the void at the moment. I am hesitant to just put my e-mail out there because those spam bots are going to eat that up! For now, if you'd like to chat, head over to my twitter, which is listed at the end of this post.
+I am planning on adding a load more content, but I also want to do more things under the hood. I'd like to add the ability for people to contact me, should they wish, because at the moment I am sort of just shouting into the void. I am hesitant to just put my e-mail out there because those spam bots are going to eat that up! For now, if you'd like to chat, head over to my twitter, which is listed at the end of this post.
 
 Anyway, I am about to head out and pick up a grocery order via click and collect (as we do in the Covid times) so I'll leave it there for now - I am looking forward to digging in and getting going with this blog again.
 
