@@ -1,7 +1,7 @@
 ---
 title: Hello and Welcome!
 date: "2019-10-09T17:43:32.169Z"
-description: The first post for a{dev}entures
+description: The first post for {dev}adventures
 ---
 
 Hello and welcome to brand my new blog about my adventures in development.
